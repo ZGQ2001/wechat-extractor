@@ -1,0 +1,11 @@
+[project]
+name = "wechat-export"
+version = "1.0.0"
+description = "Cross-platform WeChat chat history export tool"
+requires-python = ">=3.10"
+dependencies = [
+    "pycryptodome",
+    "pymem",
+    "rich",
+    "click",
+]

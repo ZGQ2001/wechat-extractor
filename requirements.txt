@@ -1,1 +1,5 @@
-pymem\npysqlcipher3
+pysqlcipher3
+pycryptodome
+pymem
+rich
+click
