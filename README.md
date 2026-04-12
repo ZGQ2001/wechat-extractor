@@ -1,0 +1,1 @@
+# WeChat Chat Record Extractor\n\nProfessional tool for extracting keys and decrypting WeChat databases.\n\n## Usage\n\n### 1. Extract Key\n```bash\npython main.py --extract\n```\n\n### 2. Decrypt Database\n```bash\npython main.py --decrypt --db-path path/to/encrypted.db --out-path path/to/decrypted.db --key YOUR_HEX_KEY\n```
