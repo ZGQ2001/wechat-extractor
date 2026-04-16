@@ -1,0 +1,11 @@
+# 忽略虚拟环境
+.venv/
+__pycache__/
+
+# 忽略临时数据（保护隐私！）
+output_test/
+*.db
+*.db-wal
+*.db-shm
+requirements.txt.tmp
+key.txt
