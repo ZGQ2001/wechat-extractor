@@ -1,5 +1,0 @@
-pysqlcipher3
-pycryptodome
-pymem
-rich
-click
